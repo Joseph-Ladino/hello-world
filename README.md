@@ -1,2 +1,2 @@
 # hello-world
-Tutorial Repository
+Tutorial on how to merge branches.
